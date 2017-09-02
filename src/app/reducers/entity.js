@@ -1,0 +1,5 @@
+const initialState = "dashboard";
+
+export default function(state = initialState, action ){
+    return state
+}
